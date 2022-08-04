@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(240, 242, 245);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    margin-left: 90px;
+}
+.parent-div{
+    margin-top: 70px;
+    display: flex;
+    
+}
+.child-div1{
+    
+
+}
+.child-div1 h1{
+    color: blue;
+}
+.child-div2{
+    margin: 50px auto;
+    background-color: white;
+}
+    form{ width: 300px;
+        padding: 50px;
+        height: 100px;
+    }
+        input[type= "email"]{
+            width: 100%;
+            height: 40px;
+            border-radius: 7px;
+            margin-bottom:20px ;
+        }
+            input[type="Password"]{
+                width: 100%;
+                height: 40px;
+                border-radius: 7px;
+                margin-bottom:20px ;
+            }
+                input[type="submit"]{
+                    width: 100%;
+                    height: 40px;
+                    border-radius: 7px;
+                    margin-bottom:20px ;
+                    background-color: blue;
+                }
+                input[type="Text"]{
+                    width: 100%;
+                height: 40px;
+                border-radius: 7px;
+                  background-color: blue;
+
+} 
+button{
+    margin-left: 100px;
+    background-color: green;
+    color: white;
+    width: 50%;
+    padding: 10px;
+}
+.Parent-div2 {
+    margin-left: 400px;
+    margin-bottom: 300px;
+     
+}
+.Parent-div2 h6{
+    margin: 0;
+}
+
+
